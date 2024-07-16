@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "aug15"
 author: "Mithru Narayan Naidu"
@@ -16,3 +17,11 @@ format: html
 1. What will the gap look like when graphed?
 2. Is there an empirical difference at all?
 3. Would the date of sending these applications have altered the result due to possible real-world event connections? (Pre/Post BLM movement)
+
+### Preceptor Table
+
+Column 1: Name (String)
+Column 2: Sex (String)
+Column 3: Race (String)
+Column 4: Callback(Binary; basically boolean)
+
