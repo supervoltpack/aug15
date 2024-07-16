@@ -1,0 +1,18 @@
+---
+title: "aug15"
+author: "Mithru Narayan Naidu"
+format: html
+---
+
+### *Broad* Questions
+
+1. What particular field of employment was this put into?
+2. Would the particular field effect the probability of callback as well?
+3. Does sex effect the results as well?
+4. Were they exclusively white-collar jobs or were the targeted positions more diverse?
+
+### *Specific* Questions
+
+1. What will the gap look like when graphed?
+2. Is there an empirical difference at all?
+3. Would the date of sending these applications have altered the result due to possible real-world event connections? (Pre/Post BLM movement)
